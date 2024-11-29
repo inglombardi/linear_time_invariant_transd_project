@@ -12,10 +12,28 @@ Giuseppe Rodriguez
 Professore Ordinario Matematica Applicata e Algoritmi Numerici presso l'Università degli Studi di Cagliari.
 Dipartimento di Matematica - Università di Cagliari
 via Ospedale 72, Palazzo delle Scienze, 09124 Cagliari, Italy
+### Dataset per i campioni
+Messo a disposizione dal Prof. Dott. Ing. Elio Usai.
+Professore ordinario
+Area scientifico disciplinare - Ingegneria industriale e dell'informazione
+Settore scientifico disciplinare - ING-INF/04 AUTOMATICA
 
-Data del report: 7/07/2020 - Corso di Algebra Lineare Numerica
+Data pubblicazione del report: 7/07/2020 - Corso di Algebra Lineare Numerica
 
 ------------------------------------------------------------
+### Come usare questo tool
+
+E' presente, al link di cui sopra, una pubblicazione intitolata " Identificazione del modello matematico di un sistema LTI nel dominio della frequenza: fattorizzazione del sistema lineare.
+Algebra Lineare Numerica
+Corso di Laurea Magistrale in Ingegneria Elettrica, Elettronica e Informatica - A.A. 2019/20 ".
+
+Leggendo il documento è possibile capire come il report dimostri che è possibile ottenere un algoritmo personalizzabile per cui si possa ottenere un modulo software in grado di "trasdurre" il diagramma di Bode (moduli e fasi) in un sistema di equazioni differenziali.
+Durante il lavoro è stato usato un dataset pubblico, di poche misure. Il lavoro pubblicato qui comprende un template per poter sviluppare il tool, ma non viene pubblicato interamente il codice sorgente per diversi motivi:
+
+1. Il lavoro è stato svolto per superare la prova di un Seminario e non deve agevolare coloro che in quell'intento copierebbero tale lavoro.
+2. Il lavoro può essere personalizzato, essendo un problema sovradeterminato (m>n), si possono avere più soluzioni. La fattorizzazione QR di una generica matrice A non singolare (di dimensioni m × n , con m>n ) permette di risolvere il sistema Ax=b tramite la risoluzione di due sistemi più semplici, ma questo non è l'unico modo e quindi il contributo scientifico deve aiutare ad ispirare le persone che si troveranno in situazioni simili a percorrere una strada simile, ma non uguale.
+3. Il lavoro è stato talmente impegnativo che non è giusto, per me stesso, consegnare il sorgente a qualcuno.
+
 
 ### README: Descrizione delle Funzionalità del Programma
 
